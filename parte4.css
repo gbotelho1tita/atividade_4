@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    border: solid 2px red ;
+    display: flex;
+    width: 196,6vh;
+    height: 100vh;
+   
+}
+
+div {
+    border: solid 2px blue ;
+    width: 350px;
+    height: 250px;
+    margin: auto;
+    text-align: center;
+    padding: 15px 0px 10px 0px;
+}
+h1 {
+    margin-bottom: 10px;
+}
+
+.u, .s {
+    border: solid 2px green;
+    width: 200px;
+    height: 40px;
+    margin: auto;
+    margin-bottom: 15px;
+  
+}
+
+.e {
+    border: solid 2px green;
+    width: 120px;
+    height: 40px;
+    margin: auto;
+    margin-top: 15px;
+}

@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    border: solid 2px red ;
+    display: flex;
+    justify-content: center;
+    width: 196,6vh;
+    height: 100vh;
+}
+
+p {
+    border: solid 2px blue ;
+    width: 250px;
+    height: 200px;
+    margin: auto;
+}
+
+a {
+    color: black;
+}
